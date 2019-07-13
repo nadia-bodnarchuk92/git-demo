@@ -3,4 +3,5 @@ wall of shields
 staning strong
 on this their chosen battle field
 
-Commit 1 for feature branch
+Commit to master branch
+commit to feature
