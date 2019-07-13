@@ -4,5 +4,9 @@ staning strong
 on this their chosen battle field
 
 Commit to master branch
+<<<<<<< HEAD
 commit to feature
 one more Commit to master branch
+=======
+commit to feature
+>>>>>>> feature
